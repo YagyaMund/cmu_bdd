@@ -1,0 +1,2 @@
+hash.o: hash.c /Users/yagya/Downloads/cmu_bdd/include/memuser.h hash.h
+vec.o: vec.c /Users/yagya/Downloads/cmu_bdd/include/memuser.h vec.h
